@@ -1,33 +1,6 @@
 {
     "hats": [
         {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "ASTER1.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-3.png",
-            "reshasha": "ac933b5624c5651d80f6169b57356502"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "ASTER2.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-4.png",
-            "reshasha": "9feb59b677c4e4cdc34b48a397539e5e"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "AU\u88c5\u626e\u6a21\u677f",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-5.png",
-            "reshasha": "36ba92368c3379d53e0cd7a5f2b1891f"
-        },
-        {
             "author": "\u7941\u73de",
             "bounce": "true",
             "condition": "None",
@@ -35,393 +8,6 @@
             "package": "mxyx.club-DIY",
             "resource": "mxyx4.png",
             "reshasha": "3265b83e4408c07b3e1930b2ace283b1"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-1",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-1.png",
-            "reshasha": "b04c383b7bcd3565f222e04d9a04e65c"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-10",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-10.png",
-            "reshasha": "f4594a3ae423d9eccf8fe5f3909d58d0"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-11",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-11.png",
-            "reshasha": "9cc6ade2d0a77d1c7e051067936e1020"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-12",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-12.png",
-            "reshasha": "d582c2683674d63d112ac3b332425617"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-13",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-13.png",
-            "reshasha": "4d0d5569a2e633ddc6cba0bd9837e037"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-14",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-14.png",
-            "reshasha": "7d7233ad104ea9684f3e82acffb92ab9"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-15",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-15.png",
-            "reshasha": "2bcb588927a2f405c46ffd15cabf2c6f"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-16",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-16.png",
-            "reshasha": "df5e92324b922dd06575aaaa36252329"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-17",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-17.png",
-            "reshasha": "b84d7c14602548bc27c7c12bb63e6007"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-18",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-18.png",
-            "reshasha": "08cdaf0ee0a032ade9fdcbdf02dd1d16"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-19",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-19.png",
-            "reshasha": "7c8b3a32602d1702f00620e15bd820b1"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-2",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-2.png",
-            "reshasha": "0d77eca06366d30e9588e88a8fe88d34"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-20",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-20.png",
-            "reshasha": "2987c019aed4b243c65c623e8bb52831"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-21",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-21.png",
-            "reshasha": "bca3ca941110c088706020a38559fe62"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-22",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-22.png",
-            "reshasha": "6d12c78c146e00acf070cca6f84372d6"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-23",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-23.png",
-            "reshasha": "830a535ab4d105a5cfd9861bc256bb45"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-3",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-3.png",
-            "reshasha": "f50e2e4d1713c6a9e49ba3c4a1cacd9e"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-4",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-4.png",
-            "reshasha": "fd4b4567bbe3f1c66d98edc0189a3f69"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-5",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-5.png",
-            "reshasha": "00a25751650b78f793996aace8e71c4d"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-6",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-6.png",
-            "reshasha": "24b7aae99fd69f771ab551e6b38d2680"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-7",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-7.png",
-            "reshasha": "556e32b2c45bf37bfeabfab2d0f9a43f"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-8",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-8.png",
-            "reshasha": "cf3fbc7c70116bc96ae184f6afe7717f"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V5-9",
-            "package": "mxyx.club-\u8471\u8471-V5",
-            "resource": "cc-5-9.png",
-            "reshasha": "c1a33a0da6c2fe5fdf086d2f16de743b"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-1",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-1.png",
-            "reshasha": "8d4a06c264be6f749858fbb78626430e"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-10",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-10.png",
-            "reshasha": "b02b2f6b9b1b82b8a1f7312cd7c8a7f6"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-11",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-11.png",
-            "reshasha": "cca66470e85d707ba49dd83e311b0bb0"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-12",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-12.png",
-            "reshasha": "2ca10a4bf3b12c4d2c657fd4c727b88b"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-13",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-13.png",
-            "reshasha": "2b9928f190d328c78c4f43bd241154d7"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-14",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-14.png",
-            "reshasha": "282f13bc3c664b84267bb100feae911d"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-15",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-15.png",
-            "reshasha": "fb47b093292769e4617a9922a98b166c"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-16",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-16.png",
-            "reshasha": "7806898ff1fb92ae53302b76721705a0"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-17",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-17.png",
-            "reshasha": "e29beac8d283fd4096b097b26bef54e8"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-18",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-18.png",
-            "reshasha": "c1fe6f21f9485162bada0e289ce5ea56"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-2",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-2.png",
-            "reshasha": "4f93fdf922fd84bec55dc3fc1ca7b088"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-3",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-3.png",
-            "reshasha": "053cdd67c8ff8aa425fde7c8e30f3d4f"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-4",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-4.png",
-            "reshasha": "df33b6dd69816fad11f9bc2914247ff1"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-5",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-5.png",
-            "reshasha": "c69798d31992eeb87aa7146e85499991"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-6",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-6.png",
-            "reshasha": "aa40dd06faacd66ffe7e4564770431e7"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-7",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-7.png",
-            "reshasha": "aeba8ccd1b6909aa9265910c6f69aa4e"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-8",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-8.png",
-            "reshasha": "586596aa8e94405d1526e8d408ee5086"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CC-V6-9",
-            "package": "mxyx.club-\u8471\u8471-V6",
-            "resource": "cc-6-9.png",
-            "reshasha": "eead02b38fe8b5c9c23b0baec3b96e08"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CXK",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-2.png",
-            "reshasha": "60db851974adb9cff564097d5f9fdbfc"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "CXK AI",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-1.png",
-            "reshasha": "4e107f27e45084dca572c59e16e2653f"
         },
         {
             "author": "\u6708\u697c",
@@ -436,73 +22,10 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "HOSHINO AI M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-3.png",
-            "reshasha": "b92f4a586c6c52e63055bc901112ce44"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "HUTAO M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-4.png",
-            "reshasha": "b35ee5b0c400ad2fe1a1e331f5ce7290"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "KEQING M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-5.png",
-            "reshasha": "2e1c2f8df9c455b6e3177d560ba8dec0"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "KOKOMI M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-7.png",
-            "reshasha": "4ebe24a459f3ca9b47bdd1338e0542ab"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "LIKA1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-2.png",
-            "reshasha": "17ead117f7b200ad65e23727681aa092"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "LIKA2.1",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-3.png",
-            "reshasha": "b45ab5201e0b24ca8653775f64b8abca"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
             "name": "MAHIRO1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-4.png",
-            "reshasha": "134db8d95ba77b08cb90738f1992a3eb"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "NAHIDA M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-8.png",
-            "reshasha": "305c1080734b7bcdc519e64c1910f27d"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-01.png",
+            "reshasha": "436921b60f682628240a240f00975b68"
         },
         {
             "author": "\u6708\u697c",
@@ -512,15 +35,6 @@
             "package": "mxyx.club-\u6708\u697c-1",
             "resource": "yl-1-13.png",
             "reshasha": "d6849bf2cf1423adc0bbe730a20bc974"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "ORI QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-1.png",
-            "reshasha": "9022f923f2947c7b1874fdaf0cc642f6"
         },
         {
             "author": "\u6708\u697c",
@@ -595,15 +109,6 @@
             "reshasha": "5cb0393d29eed49b94683e52fcc186f2"
         },
         {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "RAIDEN M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-9.png",
-            "reshasha": "3f92034fb8e32e61a64120a25efe05dc"
-        },
-        {
             "author": "\u7941\u73de",
             "bounce": "true",
             "condition": "None",
@@ -622,24 +127,6 @@
             "reshasha": "b5a28f0a088545dac8c967765e07fe33"
         },
         {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "YOIMIYA M7",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-10.png",
-            "reshasha": "e17cda556058212af420e4fc6ee875fa"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "ai1.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-2.png",
-            "reshasha": "4b01e0ea03f870d4121a1866e6bfbe7f"
-        },
-        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -652,10 +139,208 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "boqi1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-1.png",
-            "reshasha": "025772f41994bb08dda68237c9deae63"
+            "name": "cc-5-13",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-66.png",
+            "reshasha": "4d0d5569a2e633ddc6cba0bd9837e037"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-5-16",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-67.png",
+            "reshasha": "df5e92324b922dd06575aaaa36252329"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-5-17",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-68.png",
+            "reshasha": "b84d7c14602548bc27c7c12bb63e6007"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-5-18",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-69.png",
+            "reshasha": "08cdaf0ee0a032ade9fdcbdf02dd1d16"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-5-20",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-70.png",
+            "reshasha": "2987c019aed4b243c65c623e8bb52831"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-5-21",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-71.png",
+            "reshasha": "bca3ca941110c088706020a38559fe62"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-5-23",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-72.png",
+            "reshasha": "830a535ab4d105a5cfd9861bc256bb45"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-1",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-73.png",
+            "reshasha": "8d4a06c264be6f749858fbb78626430e"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-11",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-82.png",
+            "reshasha": "053cdd67c8ff8aa425fde7c8e30f3d4f"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-12",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-83.png",
+            "reshasha": "df33b6dd69816fad11f9bc2914247ff1"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-13",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-84.png",
+            "reshasha": "c69798d31992eeb87aa7146e85499991"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-14",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-85.png",
+            "reshasha": "aa40dd06faacd66ffe7e4564770431e7"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-15",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-86.png",
+            "reshasha": "aeba8ccd1b6909aa9265910c6f69aa4e"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-17",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-87.png",
+            "reshasha": "586596aa8e94405d1526e8d408ee5086"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-18",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-88.png",
+            "reshasha": "eead02b38fe8b5c9c23b0baec3b96e08"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-2",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-74.png",
+            "reshasha": "cca66470e85d707ba49dd83e311b0bb0"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-3",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-75.png",
+            "reshasha": "2ca10a4bf3b12c4d2c657fd4c727b88b"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-4",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-76.png",
+            "reshasha": "2b9928f190d328c78c4f43bd241154d7"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-5",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-77.png",
+            "reshasha": "282f13bc3c664b84267bb100feae911d"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-6",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-78.png",
+            "reshasha": "fb47b093292769e4617a9922a98b166c"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-7",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-79.png",
+            "reshasha": "e29beac8d283fd4096b097b26bef54e8"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-8",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-80.png",
+            "reshasha": "c1fe6f21f9485162bada0e289ce5ea56"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "cc-6-9",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-81.png",
+            "reshasha": "82b0c41eb54d8da554c1f35d8e2fc9ef"
         },
         {
             "author": "\u6708\u697c",
@@ -701,33 +386,6 @@
             "package": "mxyx.club-\u6708\u697c-4",
             "resource": "yl-4-8.png",
             "reshasha": "01124385230e5a3b6ec18b9227f76407"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "gy1.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-6.png",
-            "reshasha": "fed5257fd43d0e9209a7af4210149e3e"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "ht1.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-7.png",
-            "reshasha": "dfba9673f0d19e1baae898066362a561"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "kl1.0",
-            "package": "mxyx.club-\u8471\u8471-V3",
-            "resource": "cc-3-6.png",
-            "reshasha": "e451aad8793fac73933be418294003e6"
         },
         {
             "author": "\u6708\u697c",
@@ -895,10 +553,19 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u4e00\u4e4b\u6fd1\u521d1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-16.png",
-            "reshasha": "01b3cfa30cea67bf650d6c71403cdb01"
+            "name": "\u4e09\u6708\u4e03",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-50.png",
+            "reshasha": "e3cccb377174aab6037a199dfc2f7532"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4e09\u6708\u4e032",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-51.png",
+            "reshasha": "6a41c8db0d20fae6138f2e94f98db979"
         },
         {
             "author": "\u6708\u697c",
@@ -931,10 +598,28 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
+            "name": "\u4f18\u83c8",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-61.png",
+            "reshasha": "7a1cdcec8a74ebb4199edbd24ab33934"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4f18\u83c82",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-62.png",
+            "reshasha": "2ba93f4ceb5b13ffc3fce612e086a71b"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
             "name": "\u4f51\u5b501.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-18.png",
-            "reshasha": "740e29d293c167a937b4bc05cafcbfdc"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-63.png",
+            "reshasha": "18006acff4d3468060d5d00feb98cf63"
         },
         {
             "author": "\u6708\u697c",
@@ -946,6 +631,15 @@
             "reshasha": "62eed3277b4fb537366ca380c119820e"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4f69\u62c9\u59d0\u59d0",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-41.png",
+            "reshasha": "6a5e4a94492c41b4ea1c5c4571f688d1"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -953,6 +647,15 @@
             "package": "mxyx.club-\u6708\u697c-2",
             "resource": "yl-2-16.png",
             "reshasha": "62fb6e6ddf672a1e25b32fa44a22f584"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5143\u9996",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-64.png",
+            "reshasha": "cf3fbc7c70116bc96ae184f6afe7717f"
         },
         {
             "author": "\u6708\u697c",
@@ -991,6 +694,42 @@
             "reshasha": "3fdeadac91e0b70b753c9931f0c792d0"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u514b\u62c9\u62c9",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-20.png",
+            "reshasha": "601a99bf4a85af66a4d25f35736cf8f4"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u514b\u62c9\u62c92",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-21.png",
+            "reshasha": "fcfebd7e83be2e3d1553beeaac425920"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u514b\u62c9\u62c93",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-22.png",
+            "reshasha": "5cdf6d35aaaf5d6ee7ace038c1d2c0ee"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u514b\u62c9\u62c94",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-23.png",
+            "reshasha": "3e171369b17622824f9510fa022b7a86"
+        },
+        {
             "author": "\u51b0\u7cd5",
             "bounce": "true",
             "condition": "None",
@@ -998,6 +737,15 @@
             "package": "mxyx.club-\u51b0\u7cd5",
             "resource": "bg1.png",
             "reshasha": "cf6eeb7859b8b72ce8e513777ded8647"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u51ef\u9732",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-16.png",
+            "reshasha": "b04c383b7bcd3565f222e04d9a04e65c"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -1021,46 +769,64 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u523b\u6674 QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-5.png",
-            "reshasha": "bae1aef6185a3cb06abf1a132ade284a"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u523b\u6674 QY2",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-6.png",
-            "reshasha": "3cf6d9c662208209c682ba56eb1bd800"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u523b\u66741.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-10.png",
-            "reshasha": "32273ff716f481c1cf552bef5017ce5d"
+            "name": "\u523b\u66741",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-24.png",
+            "reshasha": "e4877c451a1548fb9c723af26adaf7d3"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
             "name": "\u523b\u66742.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-11.png",
-            "reshasha": "3e36d18de997292a751fea9ad069abd5"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-25.png",
+            "reshasha": "32273ff716f481c1cf552bef5017ce5d"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u523b\u6674MIX\u516d\u82b1",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-1.png",
-            "reshasha": "705f8acb76818a97a515a0e151776b93"
+            "name": "\u523b\u66743",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-26.png",
+            "reshasha": "da668a438ad58c011fac0ce4f69ae867"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u523b\u66744",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-27.png",
+            "reshasha": "d5e5e1c1432ef813056a1ce41108aee7"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u523b\u66745",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-28.png",
+            "reshasha": "5ceeb47483d5a1f712247cc0bd7fe5f2"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u523b\u66746",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-29.png",
+            "reshasha": "830609a8657fbb886657153398d0c3d1"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5361\u8299\u5361",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-15.png",
+            "reshasha": "5d4a9d83635b3d365829a696a48fd239"
         },
         {
             "author": "\u6708\u697c",
@@ -1070,6 +836,33 @@
             "package": "mxyx.club-\u6708\u697c-1",
             "resource": "yl-1-1.png",
             "reshasha": "db60e8f1b51982136c7d6534c396c52e"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u53ef\u8389",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-17.png",
+            "reshasha": "65bca135d6a2e23bf0b59519262c3267"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u53ef\u83892",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-18.png",
+            "reshasha": "cb6ec89628aa4d96aaaa9816587946c5"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u53ef\u83893",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-19.png",
+            "reshasha": "cb46537cdb5f3122fe742b818fe39eab"
         },
         {
             "author": "\u6708\u697c",
@@ -1106,6 +899,24 @@
             "package": "mxyx.club-\u6708\u697c-1",
             "resource": "yl-1-15.png",
             "reshasha": "d736307b450d3b1003d9215867eb5d23"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u554a\u54c8",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-02.png",
+            "reshasha": "12ee98798273e17ccaf92887e966c3e6"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5575\u5634",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-04.png",
+            "reshasha": "556e32b2c45bf37bfeabfab2d0f9a43f"
         },
         {
             "author": "\u6cab\u590f\u60a0\u8f69",
@@ -1184,18 +995,18 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5bb5\u5bab QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-7.png",
-            "reshasha": "050ff37afdb3d1f639e69205f417bf67"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-53.png",
+            "reshasha": "bae1aef6185a3cb06abf1a132ade284a"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
             "name": "\u5bb5\u5bab QY2",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-8.png",
-            "reshasha": "616a10be38d894d5953f4d72cf9b15a8"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-54.png",
+            "reshasha": "5fb6df54aedaf70647ea701be53d9ff9"
         },
         {
             "author": "\u6708\u697c",
@@ -1210,19 +1021,37 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
+            "name": "\u5c06\u519b",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-11.png",
+            "reshasha": "44d89d617b6a85ce05890a6b16cb1ae1"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
             "name": "\u5c06\u519b QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-3.png",
-            "reshasha": "4acd48eeb465c0299f7c7a6c9f4c2a9e"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-09.png",
+            "reshasha": "050ff37afdb3d1f639e69205f417bf67"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
             "name": "\u5c06\u519b QY2",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-4.png",
-            "reshasha": "5fb6df54aedaf70647ea701be53d9ff9"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-10.png",
+            "reshasha": "3cf6d9c662208209c682ba56eb1bd800"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5c06\u519b2",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-12.png",
+            "reshasha": "82a3a928d9202001edeb4f5c1578e718"
         },
         {
             "author": "\u6708\u697c",
@@ -1345,9 +1174,18 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
+            "name": "\u5e15\u59c6",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-40.png",
+            "reshasha": "4eb944e32884cee7beb0de58cd69ccea"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
             "name": "\u5e73\u6cfd\u552f1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-13.png",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-42.png",
             "reshasha": "73a852bbfc57f6bc7fdcfe852e361ca8"
         },
         {
@@ -1373,8 +1211,8 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5fc3\u6d77 QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-9.png",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-55.png",
             "reshasha": "c7a75fbcae159cbd3c79805b1ac83673"
         },
         {
@@ -1382,9 +1220,9 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u5fc3\u6d77 QY2",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-10.png",
-            "reshasha": "a2fb61ba42523269934f6ed9e1230539"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-56.png",
+            "reshasha": "616a10be38d894d5953f4d72cf9b15a8"
         },
         {
             "author": "\u6708\u697c",
@@ -1615,9 +1453,18 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
+            "name": "\u661f",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-57.png",
+            "reshasha": "e4fd3932f3e0fb3659bd2f764a3d0184"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
             "name": "\u661f\u91ce\u7231 QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-11.png",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-58.png",
             "reshasha": "ff6a6371f58ffbbc0c1f5fed20f49b03"
         },
         {
@@ -1625,18 +1472,9 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u661f\u91ce\u7231 QY2",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-12.png",
-            "reshasha": "4cb5c8ed16d5389b211eee8f80ceb8dc"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u6709\u9a6c\u52a0\u4e431.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-17.png",
-            "reshasha": "6afa6bfd9de96da677ef5fd0e38e3353"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-59.png",
+            "reshasha": "a2fb61ba42523269934f6ed9e1230539"
         },
         {
             "author": "\u6708\u697c",
@@ -1661,9 +1499,9 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u67f4\u90e11.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-7.png",
-            "reshasha": "d020c36e166ec187096ceaadda64296e"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-05.png",
+            "reshasha": "3115d7ce00032c7f3ddf3dc088946b9e"
         },
         {
             "author": "\u8db3\u7403\u56f4\u68cb\u90e8",
@@ -1792,6 +1630,15 @@
             "reshasha": "399dbed6529ab35cc7210907e089d4a6"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u6f06\u9ed1\u7684\u864e\u514b\u5927\u4eba",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-43.png",
+            "reshasha": "3ab0206ac5b61796b75cf7bc2e85acbc"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1837,6 +1684,15 @@
             "reshasha": "207965fc1f78162cbf4a028da82219c5"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u738b\u53f8\u5f92",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-52.png",
+            "reshasha": "24b7aae99fd69f771ab551e6b38d2680"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1844,6 +1700,15 @@
             "package": "mxyx.club-\u6708\u697c-3",
             "resource": "yl-3-21.png",
             "reshasha": "7a3d3a185e7603e3694b26ad77a0417d"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u7433\u59ae\u7279",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-32.png",
+            "reshasha": "52d0ae5434d9b2da69d13eb079628cde"
         },
         {
             "author": "\u6708\u697c",
@@ -1889,6 +1754,15 @@
             "package": "mxyx.club-\u6708\u697c-1",
             "resource": "yl-1-4.png",
             "reshasha": "fad97a6a59454fb7beb9286e01717f0d"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u767d\u83dc",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-03.png",
+            "reshasha": "7d7233ad104ea9684f3e82acffb92ab9"
         },
         {
             "author": "\u5c0f\u6485",
@@ -1945,6 +1819,15 @@
             "reshasha": "85d6607f7654343e41048e35ba3d183f"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u7eb3\u897f\u59b2",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-39.png",
+            "reshasha": "54c98de1624faa6879cb17fd650000f3"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1952,6 +1835,24 @@
             "package": "mxyx.club-\u6708\u697c-3",
             "resource": "yl-3-14.png",
             "reshasha": "e7176e7d101d44a1518dda0fbf44a6e4"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u7eeb\u534e",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-33.png",
+            "reshasha": "2319b3f51a72000d4c39b0671d72a926"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u7eeb\u534e2",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-34.png",
+            "reshasha": "70bc7bebb205260066040971c98925bb"
         },
         {
             "author": "\u6708\u697c",
@@ -1972,6 +1873,15 @@
             "reshasha": "6370bf9d643a22e73b264c3bd0e6a424"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u7f57\u5239",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-35.png",
+            "reshasha": "a6bb25a99ba5ad00e8a093be0a3ef3bf"
+        },
+        {
             "author": "\u7941\u73de",
             "bounce": "true",
             "condition": "None",
@@ -1985,45 +1895,45 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u7f8e\u7eea1.1",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-12.png",
-            "reshasha": "136876f6f24b7c76a6c6c01ce4ce1db9"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-38.png",
+            "reshasha": "a3b13733afe71036afc3ef12770af0af"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
             "name": "\u8001\u4eba\u5730\u94c1\u624b\u673a1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-10.png",
-            "reshasha": "8166696aa14415446f754fee15df1355"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-30.png",
+            "reshasha": "e9266eda628a510744be1d0aec7e12a5"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u80e1\u6843 QY",
-            "package": "mxyx.club-\u8471\u8471-V4",
-            "resource": "cc-4-2.png",
-            "reshasha": "3a517f3eb4f26cb3651cba79bd2a83c3"
+            "name": "\u80e1\u6843",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-06.png",
+            "reshasha": "d94c0ca48c2624eadd6a617769f1c06f"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u80e1\u684311.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-9.png",
-            "reshasha": "2e306cfc81da135e3430f017761cb0b0"
+            "name": "\u80e1\u68432",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-07.png",
+            "reshasha": "0cfe532eb0ce1cf8c1367ddeb8c8bbe7"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u80e1\u68432.0",
-            "package": "mxyx.club-\u8471\u8471-V2",
-            "resource": "cc-2-8.png",
-            "reshasha": "a83b4ebc56fde677a4f6fb2d498bd6ad"
+            "name": "\u80e1\u68433",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-08.png",
+            "reshasha": "ca165fe9dfe566be320120c6a11b5781"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -2098,6 +2008,15 @@
             "reshasha": "4f8b00e123277a92c18c3408923da3a4"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u8393",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-37.png",
+            "reshasha": "d582c2683674d63d112ac3b332425617"
+        },
+        {
             "author": "\u7941\u73de",
             "bounce": "true",
             "condition": "None",
@@ -2134,6 +2053,15 @@
             "reshasha": "c81f96021b9674cd7382863d5c3f9c4f"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u86c6\u5a18",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-49.png",
+            "reshasha": "2bcb588927a2f405c46ffd15cabf2c6f"
+        },
+        {
             "author": "\u5b89\u5b89",
             "bounce": "true",
             "condition": "None",
@@ -2159,6 +2087,15 @@
             "package": "mxyx.club-\u6708\u697c-2",
             "resource": "yl-2-47.png",
             "reshasha": "25fb89c5b742616419a3d7ce0c3b097c"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u8bf8\u845b\u6751\u592b",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-65.png",
+            "reshasha": "00a25751650b78f793996aace8e71c4d"
         },
         {
             "author": "\u6708\u697c",
@@ -2194,7 +2131,16 @@
             "name": "\u9177",
             "package": "mxyx.club-\u6708\u697c-3",
             "resource": "yl-3-22.png",
-            "reshasha": "ad6d5fc90980f22d8a56388a1894c233"
+            "reshasha": "da6e44895f7c00f1abbd52ea65aa285e"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u91d1\u9986\u957f",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-13.png",
+            "reshasha": "9cc6ade2d0a77d1c7e051067936e1020"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -2204,6 +2150,15 @@
             "package": "mxyx.club-\u51b0\u7cd5",
             "resource": "bg11.png",
             "reshasha": "97736f339fe4f8cf12a2787df5070c4f"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u94f6\u72fc",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-60.png",
+            "reshasha": "3e2cb4985a013484d6febebf0dc49ba1"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -2218,19 +2173,10 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u963f\u5c3c\u4e9a1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-5.png",
-            "reshasha": "ab5f5b3c53acb1530eacf967e998a21c"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u963f\u5c3c\u4e9a2.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-6.png",
-            "reshasha": "b9fe586238f39a53f14fadd8bc96fcc0"
+            "name": "\u955c\u95e8",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-14.png",
+            "reshasha": "870a26bcc0aa663b07df84d35e7de3b8"
         },
         {
             "author": "\u6668\u6668",
@@ -2254,19 +2200,55 @@
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
-            "name": "\u96c5\u8c2d1.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-15.png",
-            "reshasha": "a049ef7a1cee951152b4a29a166d0ed2"
+            "name": "\u96f7\u519b",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-31.png",
+            "reshasha": "c1a33a0da6c2fe5fdf086d2f16de743b"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u9752\u96c0",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-44.png",
+            "reshasha": "842e8a1e8012349cc95f894d3bd4ef71"
         },
         {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
             "name": "\u9752\u96c01.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-14.png",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-45.png",
             "reshasha": "ac26ffcf22773894f36feeff85ff2879"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u9752\u96c02",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-46.png",
+            "reshasha": "f6b82f42258efeae56575c770152649f"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u9752\u96c03",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-47.png",
+            "reshasha": "c33d51c19862542289d04644e75f6297"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u9752\u96c04",
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-48.png",
+            "reshasha": "87b106f946383fe54d9ed22fb82485db"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -2408,9 +2390,9 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u9ebb\u88631.0",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-11.png",
-            "reshasha": "f32102da31c59f6fd503f35e7ab0f34d"
+            "package": "mxyx-club-\u8471\u8471",
+            "resource": "cc-z-36.png",
+            "reshasha": "01bad9b7e80b6b80d35affa20df12c05"
         },
         {
             "author": "\u6cab\u590f\u60a0\u8f69",
@@ -2419,8 +2401,9 @@
             "name": "\u9ec4\u8c46\u6d41\u6c57",
             "package": "mxyx.club-DIY",
             "resource": "mxyx24.png",
-            "flipresource": "mxyx.24_flip.png",
-            "reshasha": "88930b67a245502d06868e2bf170f2da"
+            "flipresource": "mxyx24_flip.png",
+            "reshasha": "88930b67a245502d06868e2bf170f2da",
+            "reshashf": "f091123ab9d0df0123463816da957028"
         },
         {
             "author": "\u6708\u697c",
@@ -2430,24 +2413,6 @@
             "package": "mxyx.club-\u6708\u697c-2",
             "resource": "yl-2-51.png",
             "reshasha": "3a2c661bdfe6552a5914011c0738a57f"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u9ed1\u5ddd\u8d64\u97f31.3",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-8.png",
-            "reshasha": "e3eb176e9fbfd50c6d9797fc9aacf694"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u9ed1\u5ddd\u8d64\u97f32.1",
-            "package": "mxyx.club-\u8471\u8471-V1",
-            "resource": "cc-1-9.png",
-            "reshasha": "0cc782e311526f1916d68851369629e3"
         }
     ]
 }
