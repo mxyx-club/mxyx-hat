@@ -1,6 +1,24 @@
 {
     "hats": [
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "A\u5305\u5934A",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-02.png",
+            "reshasha": "b3baed48a90fcc6f32c85d66a65aaaa9"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "B\u5e15\u59c6B",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-04.png",
+            "reshasha": "aaa06efaab2eeaba35fb2d6890347d91"
+        },
+        {
             "author": "\u7941\u73de",
             "bounce": "true",
             "condition": "None",
@@ -10,6 +28,24 @@
             "reshasha": "3265b83e4408c07b3e1930b2ace283b1"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "C\u4e8c\u9636\u5802C",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-06.png",
+            "reshasha": "b2b602d9c8665d70e632a44f06d9523f"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "G UMR GG",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-14.png",
+            "reshasha": "38b699cfe6c0e789a5fdd494f0c39aa0"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -17,6 +53,51 @@
             "package": "mxyx.club-\u6708\u697c-4",
             "resource": "yl-4-1.png",
             "reshasha": "fbc104846a9f43895f78cb9b9c0f995d"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "H\u4e03\u6fd1\u80e1\u6843h",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-15.png",
+            "reshasha": "56b5a1faaabe3ef22cb8c1ecfb594ded"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "I YYKY I",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-17.png",
+            "reshasha": "a36949d5780e7bd922400a87e2c5223a"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "I YYKY II",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-18.png",
+            "reshasha": "c247b501e9fd028a14060d0130dcc172"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "J   \u5609\u7136 J",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-19.png",
+            "reshasha": "438571caba56bc399cd42231fb17fb62"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "J  \u5609\u7136 JJ",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-20.png",
+            "reshasha": "eaffb1f488e313e2ea48cf9e6d5141f9"
         },
         {
             "author": "\u8471\u8471",
@@ -127,6 +208,24 @@
             "reshasha": "b5a28f0a088545dac8c967765e07fe33"
         },
         {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "a \u82b1\u82b1a",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-01.png",
+            "reshasha": "41a367d68248d3f8d8977d7e92fb0f7f"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "b \u6d3e\u8499b",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-03.png",
+            "reshasha": "364d39737927dc9b5fef92bcbd527e54"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -134,6 +233,15 @@
             "package": "mxyx.club-\u6708\u697c-1",
             "resource": "yl-1-10.png",
             "reshasha": "d3f9aefd35132436b38a38d75f4a9124"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "c \u4e8c\u9636\u5802cc",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-05.png",
+            "reshasha": "7285917484fd26471366a12f3ad62e02"
         },
         {
             "author": "\u8471\u8471",
@@ -188,15 +296,6 @@
             "package": "mxyx.club-\u8471\u8471",
             "resource": "cc-z-71.png",
             "reshasha": "bca3ca941110c088706020a38559fe62"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "cc-5-23",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-72.png",
-            "reshasha": "830a535ab4d105a5cfd9861bc256bb45"
         },
         {
             "author": "\u8471\u8471",
@@ -275,7 +374,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-2",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-74.png",
             "reshasha": "cca66470e85d707ba49dd83e311b0bb0"
         },
@@ -284,7 +383,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-3",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-75.png",
             "reshasha": "2ca10a4bf3b12c4d2c657fd4c727b88b"
         },
@@ -293,7 +392,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-4",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-76.png",
             "reshasha": "2b9928f190d328c78c4f43bd241154d7"
         },
@@ -302,7 +401,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-5",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-77.png",
             "reshasha": "282f13bc3c664b84267bb100feae911d"
         },
@@ -311,7 +410,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-6",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-78.png",
             "reshasha": "fb47b093292769e4617a9922a98b166c"
         },
@@ -320,7 +419,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-7",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-79.png",
             "reshasha": "e29beac8d283fd4096b097b26bef54e8"
         },
@@ -329,7 +428,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "cc-6-8",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-80.png",
             "reshasha": "c1fe6f21f9485162bada0e289ce5ea56"
         },
@@ -341,6 +440,69 @@
             "package": "mxyx.club-\u8471\u8471",
             "resource": "cc-z-81.png",
             "reshasha": "82b0c41eb54d8da554c1f35d8e2fc9ef"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "d\u4e8c\u9636\u5802d",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-07.png",
+            "reshasha": "eec3d160f335a1f3754c968aaf500a68"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "d\u4e8c\u9636\u5802dd",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-08.png",
+            "reshasha": "1279f92d0ab8763960df4b81e99e33dc"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "e\u4e00\u59ece",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-09.png",
+            "reshasha": "37cf13f214834ad0cf3e15abe025a6a2"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "e\u4e00\u59ecee",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-10.png",
+            "reshasha": "372a5b7c1351fe865f3d5b0507461672"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "f\u9999\u7ec7f",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-11.png",
+            "reshasha": "1734c2c4c7b171502b9a527655459688"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "f\u9999\u7ec7ff",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-12.png",
+            "reshasha": "62fa38c1d2a68fadee9fd52657c6535e"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "g UMR G",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-13.png",
+            "reshasha": "d1158a6665fd7939ad9884539f02e871"
         },
         {
             "author": "\u6708\u697c",
@@ -358,7 +520,7 @@
             "name": "gdyg2",
             "package": "mxyx.club-\u6708\u697c-4",
             "resource": "yl-4-5.png",
-            "reshasha": "d4f60ad3759be3212f00cb5d2beb6638"
+            "reshasha": "c83ddf32bb3495208d2ef8d7f7f2e8cf"
         },
         {
             "author": "\u6708\u697c",
@@ -386,6 +548,15 @@
             "package": "mxyx.club-\u6708\u697c-4",
             "resource": "yl-4-8.png",
             "reshasha": "01124385230e5a3b6ec18b9227f76407"
+        },
+        {
+            "author": "\u8471\u8471",
+            "bounce": "true",
+            "condition": "None",
+            "name": "h\u4e03\u6fd1\u80e1\u6843hh",
+            "package": "mxyx.club-\u8471\u8471-AAA",
+            "resource": "cc-a-16.png",
+            "reshasha": "6bdc054c8d667eeaae747e47e8a0565b"
         },
         {
             "author": "\u6708\u697c",
@@ -487,6 +658,15 @@
             "reshasha": "1581821fd25c6d404538e16f1ab41f03"
         },
         {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "bounce": "true",
+            "condition": "None",
+            "name": "pipi\u7f8e",
+            "package": "mxyx.club-DIY",
+            "resource": "mxyx27.png",
+            "reshasha": "30800f3cbe54a5b389d44dc23fa3fc70"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -503,6 +683,15 @@
             "package": "mxyx.club-\u6708\u697c-2",
             "resource": "yl-2-11.png",
             "reshasha": "0776b15734f63970a9a0804274527b2c"
+        },
+        {
+            "author": "\u6cab\u590f\u60a0\u8f69",
+            "bounce": "true",
+            "condition": "None",
+            "name": "pop\u5b50",
+            "package": "mxyx.club-DIY",
+            "resource": "mxyx26.png",
+            "reshasha": "5f30eab0dc107075bd7dd299ea964040"
         },
         {
             "author": "\u9752\u53f6QAQ",
@@ -590,7 +779,7 @@
             "bounce": "true",
             "condition": "None",
             "name": "\u4e8c\u91cc1",
-            "package": "mxyx.club-\u8471\u8471",
+            "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-91.png",
             "reshasha": "b227e5931a7f97b10cbf23c85c8994ff"
         },
@@ -772,7 +961,7 @@
             "name": "\u51c93",
             "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-94.png",
-            "reshasha": "a20551919e1452b0c03df54b01e6ce3d"
+            "reshasha": "c5373dff68bb2928a5c975d836eb76a2"
         },
         {
             "author": "\u8471\u8471",
@@ -970,7 +1159,7 @@
             "name": "\u559c\u591a\u559c\u591a2",
             "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-98.png",
-            "reshasha": "227eb395474f032c2effaed60e94dc1a"
+            "reshasha": "81d850e3caaa452de7b72df007f78362"
         },
         {
             "author": "\u6cab\u590f\u60a0\u8f69",
@@ -1024,7 +1213,7 @@
             "name": "\u5723\u8679\u590f2",
             "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-96.png",
-            "reshasha": "d0aa4fb31804d14b1aa7f5ac1b2f0386"
+            "reshasha": "28c25b9a34a7a823f30e78990cb53c39"
         },
         {
             "author": "\u7941\u73de",
@@ -1063,24 +1252,6 @@
             "reshasha": "384059ff0e460aced1aab4e2c1cd0de4"
         },
         {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5bb5\u5bab QY",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-53.png",
-            "reshasha": "bae1aef6185a3cb06abf1a132ade284a"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5bb5\u5bab QY2",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-54.png",
-            "reshasha": "5fb6df54aedaf70647ea701be53d9ff9"
-        },
-        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1097,24 +1268,6 @@
             "package": "mxyx.club-\u8471\u8471",
             "resource": "cc-z-11.png",
             "reshasha": "44d89d617b6a85ce05890a6b16cb1ae1"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5c06\u519b QY",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-09.png",
-            "reshasha": "050ff37afdb3d1f639e69205f417bf67"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5c06\u519b QY2",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-10.png",
-            "reshasha": "3cf6d9c662208209c682ba56eb1bd800"
         },
         {
             "author": "\u8471\u8471",
@@ -1279,31 +1432,13 @@
             "reshasha": "fd5e80bf14d2913346d6aab8a2363c44"
         },
         {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5fc3\u6d77 QY",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-55.png",
-            "reshasha": "c7a75fbcae159cbd3c79805b1ac83673"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5fc3\u6d77 QY2",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-56.png",
-            "reshasha": "616a10be38d894d5953f4d72cf9b15a8"
-        },
-        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
             "name": "\u5fcf\u6094",
             "package": "mxyx.club-\u6708\u697c-1",
             "resource": "yl-1-16.png",
-            "reshasha": "7d126c3eb90849cb174cc0475e2ab8cf"
+            "reshasha": "dddeee0aa50fb1cb11304092694f5b34"
         },
         {
             "author": "\u6708\u697c",
@@ -1531,24 +1666,6 @@
             "reshasha": "e4fd3932f3e0fb3659bd2f764a3d0184"
         },
         {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u661f\u91ce\u7231 QY",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-58.png",
-            "reshasha": "ff6a6371f58ffbbc0c1f5fed20f49b03"
-        },
-        {
-            "author": "\u8471\u8471",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u661f\u91ce\u7231 QY2",
-            "package": "mxyx.club-\u8471\u8471",
-            "resource": "cc-z-59.png",
-            "reshasha": "a2fb61ba42523269934f6ed9e1230539"
-        },
-        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1672,7 +1789,7 @@
             "name": "\u6ce2\u5947\u91712",
             "package": "mxyx.club-\u8471\u8471-\u5b64\u72ec\u6447\u6eda",
             "resource": "cc-z-90.png",
-            "reshasha": "e5035f3039d1e1e2aaf8c08455836f34"
+            "reshasha": "65393f12f4fab6dc739d273df4a0ab2d"
         },
         {
             "author": "\u6708\u697c",
