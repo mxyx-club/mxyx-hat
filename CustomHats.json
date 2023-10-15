@@ -766,6 +766,24 @@
             "reshasha": "6fe6c9cf8e0cead0513c01b9bfbb9621"
         },
         {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4e43\u7433\u6447",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg26.png",
+            "reshasha": "7e48696bdee29f64ac5b156c2bb5ce3e"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4e43\u7433\u8111\u6d1e\u6ce2\u5bb3\u6015",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg24.png",
+            "reshasha": "88aba7e9d351d0168a9f35320a45be54"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1108,6 +1126,24 @@
             "reshasha": "d0dd4c3dcfe11a5ec98bd48edad53f1c"
         },
         {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5411\u665a\u6447",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg29.png",
+            "reshasha": "a68b5dcd12ef58c8f665dfb52be0dc0c"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5411\u665a\u8111\u6d1e\u6ce2",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg27.png",
+            "reshasha": "d8c0522e1507fad91057bf91e40f0998"
+        },
+        {
             "author": "\u6708\u697c",
             "bounce": "true",
             "condition": "None",
@@ -1169,6 +1205,15 @@
             "package": "mxyx.club-DIY",
             "resource": "mxyx19.png",
             "reshasha": "701834c5201bd4ef0ea51a0991f8fbf3"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5609\u7136\u6447",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg23.png",
+            "reshasha": "373a144395d24a7134768f812bc10be6"
         },
         {
             "author": "\u51b0\u7cd5",
@@ -2458,6 +2503,15 @@
             "reshasha": "25fb89c5b742616419a3d7ce0c3b097c"
         },
         {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u8bf1\u9975",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg30.png",
+            "reshasha": "f454f9082b9d3775580bb99539d6eb53"
+        },
+        {
             "author": "\u8471\u8471",
             "bounce": "true",
             "condition": "None",
@@ -2474,6 +2528,15 @@
             "package": "mxyx.club-\u6708\u697c-2",
             "resource": "yl-2-48.png",
             "reshasha": "fa450a25f75d3d6fa96a2be412b45720"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u8d1d\u62c9\u6447",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg19.png",
+            "reshasha": "fb70e782f9f70cf73b006fe933825730"
         },
         {
             "author": "\u6708\u697c",
@@ -2773,6 +2836,14 @@
             "reshasha": "01bad9b7e80b6b80d35affa20df12c05"
         },
         {
+            "author": "\u6708\u697c",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u9ed1\u543c",
+            "package": "mxyx.club-\u6708\u697c-2",
+            "resource": "yl-2-51.png",
+            "reshasha": "3a2c661bdfe6552a5914011c0738a57f"
+        },{
             "author": "\u6cab\u590f\u60a0\u8f69",
             "bounce": "true",
             "condition": "None",
@@ -2784,13 +2855,110 @@
             "reshashf": "f091123ab9d0df0123463816da957028"
         },
         {
-            "author": "\u6708\u697c",
+            "author": "\u51b0\u7cd5",
             "bounce": "true",
             "condition": "None",
-            "name": "\u9ed1\u543c",
-            "package": "mxyx.club-\u6708\u697c-2",
-            "resource": "yl-2-51.png",
-            "reshasha": "3a2c661bdfe6552a5914011c0738a57f"
+            "name": "\u8d1d\u62c91F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg16.png",
+            "flipresource": "bg16_flip.png",
+            "reshasha": "2a9fa64b82c0b87abd9f43b423e412d7",
+            "reshashf": "3664b3bb45b6cd4a153c9c0bd0a3c71b"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u8d1d\u62c92F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "flippackage": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg17.png",
+            "reshasha": "0b3b195e76f0c8c34a9b99fa4111a749",
+            "reshashf": "2e947c5ffa71be52a0bb5edc2af05712"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u8d1d\u62c9\u8111\u6d1e\u6ce2F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "flippackage": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg18.png",
+            "reshasha": "aa24fa5e51f6853e85219f12877a93fe",
+            "reshashf": "b296f338dff32494ec4ec3e84790635d"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u597d\u4ebaF",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg20.png",
+            "flipresource": "bg20_flip.png",
+            "reshasha": "85d6607f7654343e41048e35ba3d183f",
+            "reshashf": "155b0b8a585cfe386d329b806841088b"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5609\u71361F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg21.png",
+            "flipresource": "bg21_flip.png",
+            "reshasha": "b8516312a7217cca2a71208d59880aa4",
+            "reshashf": "b595d3eb085b533bccf8b0e88a38c299"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5609\u71362F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg22.png",
+            "reshasha": "7c2499212ffb474397437ddc74e2b30e"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5609\u71362F2",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg22_flip.png",
+            "reshasha": "5249bf6a70f7bbe1b42b34b1b0a80777"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5609\u71362F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg22.png",
+            "flipresource": "bg22_flip.png",
+            "reshasha": "7c2499212ffb474397437ddc74e2b30e",
+            "reshashf": "5249bf6a70f7bbe1b42b34b1b0a80777"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u4e43\u7433\u8111\u6d1e\u6ce2F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg25.png",
+            "reshasha": "2c2945093e6cf2df5841639820a2e64f",
+            "flipresource": "bg25_flip.png",
+            "reshashf": "d790bcb51d9c14f58522d3b9afcca884"
+        },
+        {
+            "author": "\u51b0\u7cd5",
+            "bounce": "true",
+            "condition": "None",
+            "name": "\u5411\u665a\u8111\u6d1e\u6ce2F",
+            "package": "mxyx.club-\u51b0\u7cd5",
+            "resource": "bg28.png",
+            "resourceflip": "bg28_flip.png",
+            "reshasha": "cab0c42cfa1909419320a52b7e170cf5",
+            "reshashf": "938e84ad1bcf24f6a4901c44582e2b81"
         }
     ]
 }
