@@ -2916,24 +2916,6 @@
             "name": "\u5609\u71362F",
             "package": "mxyx.club-\u51b0\u7cd5",
             "resource": "bg22.png",
-            "reshasha": "7c2499212ffb474397437ddc74e2b30e"
-        },
-        {
-            "author": "\u51b0\u7cd5",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5609\u71362F2",
-            "package": "mxyx.club-\u51b0\u7cd5",
-            "resource": "bg22_flip.png",
-            "reshasha": "5249bf6a70f7bbe1b42b34b1b0a80777"
-        },
-        {
-            "author": "\u51b0\u7cd5",
-            "bounce": "true",
-            "condition": "None",
-            "name": "\u5609\u71362F",
-            "package": "mxyx.club-\u51b0\u7cd5",
-            "resource": "bg22.png",
             "flipresource": "bg22_flip.png",
             "reshasha": "7c2499212ffb474397437ddc74e2b30e",
             "reshashf": "5249bf6a70f7bbe1b42b34b1b0a80777"
